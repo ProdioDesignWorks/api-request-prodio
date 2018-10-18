@@ -1,0 +1,11 @@
+{
+  "name": "request-sdk",
+  "version": "1.0.0",
+  "description": "An SDK which can be used to make API requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ProdioDesignWorks",
+  "license": "MIT"
+}
