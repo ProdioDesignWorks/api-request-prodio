@@ -1,6 +1,6 @@
 # api-request-prodio
 
-Request is designed to be the simplest way possible to make http calls. It supports HTTPS also.
+Request is designed to be the simplest way possible to make http calls. It supports HTTPS also. The purpose is to have a homogeneous methodology for making API requests throughtout the products being developed. This helps the developer from changing the approach with change in product. This module will the following functionalities listed below:
 
 ```js
 var request = require('api-request-prodio');
