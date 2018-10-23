@@ -1,5 +1,5 @@
 {
-  "name": "request-sdk",
+  "name": "api-request-prodio",
   "version": "1.0.0",
   "description": "An SDK which can be used to make API requests",
   "main": "index.js",
